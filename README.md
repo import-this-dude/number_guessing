@@ -30,11 +30,11 @@ This project is great for practicing Python basics such as loops, conditions, us
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/import-this-dude/number_guessing
 2. Open the project folder
 cd number-guessing-game
 3. Run the game
-python number_guessing_game.py
+python guessing_game.py
 
 🎲 How to Play
 
